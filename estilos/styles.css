@@ -20,4 +20,11 @@ text-align: center;}
     width: 20%;
     border:1px #ee6f6f;
     padding: 1%;}
-.button{ align-content: center;}
+.h3{color: black; 
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.p{color: black;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.button{color: black; background-color: darkgreen; animation: backwards;}
+.containerbox {text-align: center;color: #ee6f6f;flex-wrap: wrap; display: flex;}
