@@ -1,5 +1,4 @@
-h1{ 
-    color: rgb(8, 4, 4); 
+h1{ color: rgb(8, 4, 4); 
     font-weight: 400;
     text-align: center;
     padding-left: 100px;
@@ -7,34 +6,18 @@ h1{
     padding-top: 2px;
     padding-right: 100px ;
     padding:  100px; 
-}
-
-
-
-body { background-color: rgb(220, 221, 248);
-}
-h1 {background-color: rgb(84, 95, 248);}
-span { background-color: yellow;}
-
-
+    background-color: rgb(84, 95, 248);}    
+body { background-color: rgb(220, 221, 248);}
 .nav  {
 text-align: right;
 font-family: 'Times New Roman', Times, serif;
-color: #000;
-}
+color: #000;}
 .container { 
     display: flex;
     flex-wrap: wrap;
-text-align: center;
-}
-    
-.box{
-
+text-align: center;}
+.box {
     width: 20%;
     border:1px #ee6f6f;
-    padding: 1%;
-}
-
-.button{
-    align-content: center;
-}
+    padding: 1%;}
+.button{ align-content: center;}
